@@ -4,3 +4,5 @@ To install, download The Bibites version 0.5.1 and replace "The Bibites_data/Man
 Because the game uses a new save location, you will not be able to access your old saves unless you move them into ModData.
 
 This mod adds two new materials: fruit and wood. Wood is food for herbivores, and fruit is for omnivores, and is most effective at a diet value of 0.5.
+
+![MoreMaterialsMod8](https://github.com/fivebalesofhay/MoreMaterialsMod/assets/124223106/e571626e-c192-4a34-8075-065f0bda86c7)
