@@ -24,7 +24,7 @@
       "ColorR": 0.1,
       "ColorG": 0.1,
       "ColorB": 0.1,
-      "Strength": 20.0,
+      "Strength": 25.0,
       "Defence": 2.5,
       "MutationAmountSigma": 0.05,
       "AverageMutationNumber": 2.0,
