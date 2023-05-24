@@ -5,6 +5,4 @@ Because the game uses a new save location, you will not be able to access your o
 
 This mod adds two new materials: fruit and wood. Wood is food for herbivores, and fruit is for omnivores, and is most effective at a diet value of 0.5.
 
-The mod also comes with https://github.com/fivebalesofhay/autotagger installed.
-
 ![MoreMaterialsMod8](https://github.com/fivebalesofhay/MoreMaterialsMod/assets/124223106/e571626e-c192-4a34-8075-065f0bda86c7)
